@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.Master.cs" Inherits="OnlineSupermarketTuto.Views.Admin.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <style>
+        *{
+            font-family:STXihei;
+        }
+        #left{
+            color:white;
+            height:810px;
+            background-color:blue;
+        }
+        label{
+            color:white;
+        }
+        
+    </style>
+    <link href="../../Assets/Lib/css/bootstrap.min.css" rel="stylesheet"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-2" id="left">
+                <div style="height:120px">
+                    <img src="../../Assets/Images/clipboard.png" id="logo" style="height: 60px; width: 60px" />
+                </div>
+                <div class="p-2">
+               
+                <div class="mb-3">
+                    <img src="../../Assets/Images/groceries.png" style="height: 40px; width: 40px"/>
+                    <a href="Products.aspx"><label>书本</label></a>
+                </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/supplier.png" style="height: 40px; width: 40px"/>
+                    <a href="Manufactors.aspx"><label>出版社</label></a>
+                </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/customer-feedback.png" style="height: 40px; width: 40px"/>
+                    <a href="Customers.aspx"><label>用户</label></a>
+                </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/dashboard.png" style="height: 40px; width: 40px"/>
+                    <a href="Categories.aspx"><label>类目</label></a>
+                </div>
+                    <div style="height:400px">
+
+                    </div>
+                <div class="mb-3">
+                    <img src="../../Assets/Images/logout (2).png" style="height: 40px; width: 40px"/>
+                    <a href="../Login.aspx"><label>退出</label></a>
+                </div>
+                </div>
+                
+                    </div>
+                    <div class="col-10">
+                        <form id="form1" runat="server">
+                          <div>
+                                <asp:ContentPlaceHolder ID="MyContent" runat="server">
+
+                                 </asp:ContentPlaceHolder>
+                            </div>
+                        </form>
+                    </div>
+   
+        </div>
+    </div>
+    
+</body>
+</html>

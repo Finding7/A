@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project1\\campus-sec-hand-bk-trading-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|d:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\favorite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\favorite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\favorite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\favorite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\billing.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\billing.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\customermaster.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\customermaster.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\customermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\customermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\customers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\customers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\customermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\customermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\customer\\shoppingcart.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\customer\\shoppingcart.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\manufactors.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\manufactors.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\categories.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\categories.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|D:\\project1\\campus-sec-hand-bk-trading-master\\onlinesupermarkettuto\\views\\admin\\adminmaster.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7404F6D2-7586-43DC-9B60-05CEA24F557D}|OnlineSupermarketTuto\\OnlineSupermarketTuto.csproj|solutionrelative:onlinesupermarkettuto\\views\\admin\\adminmaster.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.aspx.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\UserProfile.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\UserProfile.aspx.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\UserProfile.aspx.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\UserProfile.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:27:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCart.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-10T12:28:03.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Login.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Login.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Login.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T07:12:59.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Models\\Functions.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Models\\Functions.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Models\\Functions.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Models\\Functions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:51:03.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Favorite.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Favorite.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\Favorite.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Favorite.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\Favorite.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-10T12:28:15.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfile.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\UserProfile.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\UserProfile.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\UserProfile.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\UserProfile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-10T12:27:24.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.aspx.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAIwNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:48:43.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Billing.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T07:14:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Billing.aspx.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAA3wKYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:14:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Favorite.aspx.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Favorite.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\Favorite.aspx.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Favorite.aspx.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\Favorite.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:45:08.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Products.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\Products.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Products.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T13:02:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerMaster.Master.designer.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master.designer.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master.designer.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master.designer.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master.designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:50:22.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerMaster.Master.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:39:20.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Billing.aspx.designer.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx.designer.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx.designer.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx.designer.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\Billing.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:51:31.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customers.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Customers.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\Customers.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Customers.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\Customers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T13:02:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerMaster.Master",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\CustomerMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T12:50:47.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingCart.aspx.designer.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx.designer.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx.designer.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx.designer.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Customer\\ShoppingCart.aspx.designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:48:38.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Login.aspx.designer.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Login.aspx.designer.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:48:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\Products.aspx.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Products.aspx.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\Products.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:58:53.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Web.config",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Web.config",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Web.config",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-23T13:44:16.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T12:58:50.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Categories.aspx.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:43:21.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Categories.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T12:59:19.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Manufactors.aspx",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Manufactors.aspx",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\Manufactors.aspx",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Manufactors.aspx",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\Manufactors.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T12:59:23.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Login.aspx.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Login.aspx.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:44:27.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminMaster.Master.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:58:57.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Categories.aspx.designer.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx.designer.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx.designer.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx.designer.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\Categories.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:46:48.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:45:00.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\packages.config",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\packages.config",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\packages.config",
+              "RelativeToolTip": "OnlineSupermarketTuto\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-23T13:44:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Global.asax.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Global.asax.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Global.asax.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:50:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminMaster.Master.designer.cs",
+              "DocumentMoniker": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master.designer.cs",
+              "RelativeDocumentMoniker": "OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master.designer.cs",
+              "ToolTip": "D:\\project1\\campus-sec-hand-bk-trading-master\\OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master.designer.cs",
+              "RelativeToolTip": "OnlineSupermarketTuto\\Views\\Admin\\AdminMaster.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:42:49.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
